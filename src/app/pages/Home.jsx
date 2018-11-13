@@ -27,7 +27,7 @@ class Home extends React.Component {
             });
             this.props.history.push(`/files`);
         } else {
-            this.props.dispatch(getAuthentication())
+            this.props.dispatch(getAuthentication(window.location.href))
         }
     }
 

@@ -1,5 +1,5 @@
-export function getAuthentication() {
-    return { type: 'GET_AUTHENTICATION' };
+export function getAuthentication(url) {
+    return { type: 'GET_AUTHENTICATION', payload: url };
 }
 
 
