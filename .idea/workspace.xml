@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d15bc08a-e774-407e-aa9a-161058c2af84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/AuthApi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/modules/auth/Actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/modules/auth/Actions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/modules/auth/Saga.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/modules/auth/Saga.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/Home.jsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -63,7 +59,7 @@
           <entry key="getFromHash" value="65" />
           <entry key="gitignore" value="6" />
           <entry key="html" value="1" />
-          <entry key="js" value="1197" />
+          <entry key="js" value="1198" />
           <entry key="jsx" value="2220" />
         </counts>
       </usages-collector>
@@ -72,7 +68,7 @@
           <entry key="CSS" value="242" />
           <entry key="HTML" value="1" />
           <entry key="JSX Harmony" value="2220" />
-          <entry key="JavaScript" value="1262" />
+          <entry key="JavaScript" value="1263" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
@@ -110,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/src/app/modules/auth/Saga.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
               </folding>
@@ -398,12 +394,12 @@
       <workItem from="1541754628708" duration="6000" />
       <workItem from="1542041277304" duration="2575000" />
       <workItem from="1542136414068" duration="10132000" />
-      <workItem from="1542150267824" duration="312000" />
+      <workItem from="1542150267824" duration="431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28544000" />
+    <option name="totallyTimeSpent" value="28663000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -697,7 +693,7 @@
     <entry file="file://$PROJECT_DIR$/src/app/modules/auth/Saga.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
           </folding>
