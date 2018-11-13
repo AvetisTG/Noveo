@@ -1,0 +1,52 @@
+body, .files-wrapper {
+    width: 100%;
+    font-family: sans-serif;
+}
+
+.files-wrapper h2 {
+    margin-left: 5px;
+}
+
+.files-wrapper .back span {
+    font-size: 13px;
+    cursor: pointer;
+    color: cornflowerblue;
+}
+
+.files-wrapper ul {
+    margin-top: 30px;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.files-wrapper ul li {
+    min-height: 150px;
+    width: 150px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.files-wrapper ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.files-wrapper ul li p {
+    text-align: center;
+}
+
+.files-wrapper ul li img {
+    height: 100px;
+}
+
+
+@media screen and (max-width: 480px) {
+    .files-wrapper ul {
+        justify-content: center;
+    }
+}
